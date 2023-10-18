@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "528021359239",
+    "project_id": "bikepro-aecf4",
+    "storage_bucket": "bikepro-aecf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528021359239:android:3ee35f8970c83109360622",
+        "android_client_info": {
+          "package_name": "com.rss.bike_service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528021359239-l66nroiu0t4cms2gj2qidacqatipv0jo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rss.bike_service",
+            "certificate_hash": "0ecd4845b5d2a742f46d84dff81c41effb2a5358"
+          }
+        },
+        {
+          "client_id": "528021359239-66krqo1bo6asfurp802m4emqurtpiij3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLMxPfbrwj-YbETSe8GuMvSOb2frR-JNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528021359239-66krqo1bo6asfurp802m4emqurtpiij3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "528021359239-rav45d9r1grc9472ujtess4cc5vkb2mi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ambulanceDriver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
